@@ -4,4 +4,4 @@ let Height = 1.7;
 let Bmi = bodyWeight / (Height * Height);
 
 //コンソールへの出力
-console.log(bodyWeight / (Height * Height));
+console.log(Bmi);
